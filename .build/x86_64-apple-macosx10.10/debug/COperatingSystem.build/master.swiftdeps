@@ -1,5 +1,5 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "c983fee2e18329b7dea411ff262d6a05"
-build_time: [1537428189, 37777000]
+build_time: [1537431098, 944850000]
 inputs:
-  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [1537428146, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/COperatingSystem/libc.swift": [1537431038, 0]

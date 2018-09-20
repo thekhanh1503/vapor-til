@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "4a12b6495b928ab4868edf16cb7c78e0"
-build_time: [1537428281, 605145000]
+build_time: [1537431195, 961008000]
 inputs:
   "/Users/Khanh/vapor/TILApp/Sources/App/Models/Acronym.swift": [1536563330, 0]
   "/Users/Khanh/vapor/TILApp/Sources/App/Models/Reminder.swift": [1536566243, 0]
