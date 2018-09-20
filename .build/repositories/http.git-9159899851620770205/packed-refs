@@ -4,7 +4,7 @@ c152fe7cdc7882172fcefdcaa17d7908a8fd72eb refs/heads/HTTPRequest-caching
 94468914fb2d732ee29f517b8d3768bfd5911bb5 refs/heads/fix-file-serving
 6e469b7941a6ca72d2ac8532fad15d5c032523c5 refs/heads/formURLEncodedFix
 0bc59b36dfaf8d001f2ed4d9f9f546b43f74b6b9 refs/heads/httpclient-openssl-error
-f3641659867edfa7db1a939d1e38ece7f3766e25 refs/heads/master
+9e3eff9dfa4df7fc282bf27f801c72b3ffbfd984 refs/heads/master
 8a9e6503b5b60ad31d7a5da2901e946fe66f1a49 refs/heads/maxsize
 dfac0fdf63a9e8e8929f47f163bfdb2acca46a21 refs/heads/test-unexpected-close
 7d1ac2824844cfbfd5b185aec5151a35a5374975 refs/heads/testing
@@ -191,9 +191,11 @@ f67f18583511ae0a46a32f6c6fdeebacb12d8207 refs/pull/292/merge
 48fc37cca64dffe20fb048071c3ba93bf142b4c6 refs/pull/300/head
 64591d4043693fd0ae34b42fd256ec99e3f81736 refs/pull/302/head
 49dfa1da1fadabe92413bafee3bd01d4156a6fdb refs/pull/303/head
-e00c787e97601cf2cbf81312a455bdf93069f6a9 refs/pull/303/merge
+e36803ac9c0ebaf8ae8465171d00f63de075df6c refs/pull/303/merge
 2e4fce3e99d0b40e254fb224feffa6c0dde6cda4 refs/pull/304/head
 53b1782f4d21c868e8beedd9507ab455b5338558 refs/pull/306/head
+5ecc4ad56bffda35c5d7a805a7bb4bb7db108536 refs/pull/307/head
+343f2254d03b82517fbda4f2ddc7e6db8a0ee411 refs/pull/309/head
 4e2865e303675a2bb95b028ddc2270a28d3277cf refs/pull/32/head
 ceace8803898972dcdeb1267f8ac9f9d9a4f4469 refs/pull/33/head
 f88766482e0cf1560cd0c6acd98b16a555181c40 refs/pull/33/merge
@@ -353,3 +355,5 @@ ac926d4fb1a8a59dad4a6183f4f87dc09c222082 refs/tags/3.0.3
 a192ee144ab53370b2c095c003f429746df85595 refs/tags/3.1.0
 0fac5c7c9ab1e424621ba001d83cb59ffca99ad2 refs/tags/3.1.1
 f3641659867edfa7db1a939d1e38ece7f3766e25 refs/tags/3.1.2
+818d7d48bbb03e87fd5ac682bb6fa47c04148e6c refs/tags/3.1.3
+9e3eff9dfa4df7fc282bf27f801c72b3ffbfd984 refs/tags/3.1.4

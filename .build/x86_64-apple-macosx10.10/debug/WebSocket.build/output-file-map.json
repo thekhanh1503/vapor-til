@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/master.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/Exports.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/Exports.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Client.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Client.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket+Server.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket+Server.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocket.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocket.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/websocket.git-995660844808513665/Sources/WebSocket/WebSocketHandler.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/WebSocket.build/WebSocketHandler.swiftdeps"
+  }
+}

@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "19e2cd379a54c5fe1762b66415bbf4d4"
+build_time: [1537428208, 509879000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/IdentityVerification.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/PosixPort.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLCertificate.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLConnection.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLContext.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLErrors.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLInit.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1537428149, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/TLSConfiguration.swift": [1537428149, 0]

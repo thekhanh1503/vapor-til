@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/Sources/Run/main.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Run.build/main.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swiftdeps"
+  }
+}

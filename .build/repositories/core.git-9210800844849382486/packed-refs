@@ -11,7 +11,7 @@ bab2e39d12b8519e970fd5fac5b065b41798d521 refs/heads/fix-decoding-failure
 ebcf3eb231e7ea57f2f11d4f4bb3f54012be4bb9 refs/heads/fluent-gm
 861f6f76b61914a380c68c030727a08d95720b9b refs/heads/future-void
 95855efa43fa2bce5a9aec02ceb535a325d4edec refs/heads/joannis-performance
-08a5764af95ccf0a08d0a510358c18628736070d refs/heads/master
+eb876a758733166a4fb20f3f0a17b480c5ea563e refs/heads/master
 989e8127b4e4920cd8203542e6d9b28fc5127630 refs/heads/new-reflection-coders
 cfad3fc77f6cd14febf6f8506297affa75a6178b refs/heads/nio
 34e21adde8290c074350fb2517bf8b04d25194dc refs/heads/patches
@@ -24,7 +24,6 @@ c5d63a778af02e8a8c8d25243c955105ef5cd178 refs/heads/string-array
 451d70fab6f583b91598f5c7d230bb4349642007 refs/heads/system-cache
 661a105e25a8d84cb61f268c0b6ed85834493761 refs/heads/vapor-1
 aa15871311b497a24a7f0e96b1ae6865dd600818 refs/heads/vapor-2
-595032a8454c10e803cdeb4497ef867e954d547d refs/heads/veridic-future-default-return
 bfc998f2580efe5bfc138415c23af53976edafc9 refs/pull/1/head
 62527e71d81c30f06cd29b33c24e22333ee379da refs/pull/100/head
 761ada39eb14e02dedb72ed50428229a94059928 refs/pull/101/head
@@ -86,6 +85,8 @@ ebcf3eb231e7ea57f2f11d4f4bb3f54012be4bb9 refs/pull/157/head
 2cde7698049647fa7444549f097c3fd300a96ec0 refs/pull/168/head
 595032a8454c10e803cdeb4497ef867e954d547d refs/pull/169/head
 15f6048131066096e9afa9064505ebf797c5a62b refs/pull/17/head
+1c254bfd10bec09ab9b77dfd76f263f8ae462926 refs/pull/170/head
+c5d59203bbf2e68bfc73528788494280c44d6575 refs/pull/171/head
 4bb094c45cbadd83fd4603aef7ddc6083bc69e42 refs/pull/19/head
 7c5524da0e6d4af8c35eb9e0f1ed874af8c12b67 refs/pull/19/merge
 0bf97617657d45b6829ed2af3b2c8518b9eb773a refs/pull/2/head
@@ -252,4 +253,5 @@ e5582911ed940289212a36321e15ec561d947dbe refs/tags/3.3.0
 a8ddeba86125a36c80d90fda1d1dd185d6654ef2 refs/tags/3.4.0
 7f56a09995bf3c8df562be456bdcda405d9d0678 refs/tags/3.4.1
 ad776ec35f0a811672128eaf796fb3de10a46d3f refs/tags/3.4.2
+eb876a758733166a4fb20f3f0a17b480c5ea563e refs/tags/3.4.3
 06ff4d12cf4db04d821fb7fdaee3f431663b3577 refs/tags/SR-6922

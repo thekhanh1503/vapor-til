@@ -1,0 +1,95 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/master.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Async+NIO.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Async+NIO.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Async+NIO.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Async+NIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Async+NIO.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/AsyncError.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/AsyncError.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/AsyncError.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/AsyncError~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/AsyncError.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Collection+Future.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Collection+Future.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Collection+Future.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Collection+Future~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Collection+Future.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Deprecated.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Deprecated.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Deprecated.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Exports.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Exports.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Exports.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Exports.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+DoCatch.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+DoCatch.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+DoCatch.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+DoCatch~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+DoCatch.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Flatten.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Flatten.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Flatten.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Flatten~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Flatten.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Global.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Global.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Global.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Global~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Global.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Map.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Map.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Map.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Map~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Map.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Transform.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Transform.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Transform.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Transform~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Transform.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Variadic.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Variadic.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Variadic.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Variadic~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Variadic.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Future+Void.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Void.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Void.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Void~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Future+Void.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/FutureType.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/FutureType.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/FutureType.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/FutureType~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/FutureType.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/QueueHandler.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/QueueHandler.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/QueueHandler.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/QueueHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/QueueHandler.swiftdeps"
+  },
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Async/Worker.swift": {
+    "dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Worker.d",
+    "object": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Worker.swift.o",
+    "swiftmodule": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Worker~partial.swiftmodule",
+    "swift-dependencies": "/Users/Khanh/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.build/Worker.swiftdeps"
+  }
+}
