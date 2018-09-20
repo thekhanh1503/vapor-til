@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "a8a7929f70e046b3a4818f25764e9c0c"
+build_time: [1537432402, 658641000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/BCrypt/BCryptDigest.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/Digest.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Digest/DigestAlgorithm.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/MAC/HMAC.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSA.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAKey.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/RSA/RSAPadding.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/CryptoRandom.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/CryptoError.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Deprecated.swift": [1537431038, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Utilities/Exports.swift": [1537431038, 0]

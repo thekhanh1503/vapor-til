@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "f5d1fd7bbaa260ba30b761509eec6c52"
-build_time: [1537431121, 807000]
+build_time: [1537435817, 804772000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Core/BasicKey.swift": [1537431038, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Core/CaseInsensitiveString.swift": [1537431038, 0]

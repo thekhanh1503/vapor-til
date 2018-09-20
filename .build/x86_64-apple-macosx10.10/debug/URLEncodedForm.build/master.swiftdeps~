@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "6f95bfc2dc323a86bb8a352ad1ae9209"
+build_time: [1537432409, 539548000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Utilities/Exports.swift": [1537431040, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/url-encoded-form.git--8133570518800567758/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1537431040, 0]

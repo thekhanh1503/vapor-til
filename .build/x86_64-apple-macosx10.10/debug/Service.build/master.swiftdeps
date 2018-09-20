@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "3ad6768e32685ed506da32684acbb512"
-build_time: [1537431137, 630443000]
+build_time: [1537435847, 150439000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/service.git--3029908809087319447/Sources/Service/Config/Config.swift": [1537431039, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/service.git--3029908809087319447/Sources/Service/Container/BasicContainer.swift": [1537431039, 0]

@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "ce5bcf81ae55ee0631f4ba091b35b9ca"
-build_time: [1537431130, 402766000]
+build_time: [1537435843, 963018000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/http.git-9159899851620770205/Sources/HTTP/Body/HTTPBody.swift": [1537431037, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/http.git-9159899851620770205/Sources/HTTP/Body/HTTPBodyRepresentable.swift": [1537431037, 0]

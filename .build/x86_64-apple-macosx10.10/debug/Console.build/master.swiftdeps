@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "c869797c0b1da5423687a967812edde8"
-build_time: [1537431146, 390998000]
+build_time: [1537435855, 298333000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Console/Activity/ActivityBar.swift": [1537431037, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/console.git--2431895819212044213/Sources/Console/Activity/ActivityIndicator.swift": [1537431037, 0]

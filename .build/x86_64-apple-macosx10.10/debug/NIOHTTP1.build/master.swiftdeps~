@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "c809524834d159c9ee1a2e093924404c"
+build_time: [1537432388, 345036000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPDecoder.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPEncoder.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPTypes.swift": [1537431039, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1537431039, 0]

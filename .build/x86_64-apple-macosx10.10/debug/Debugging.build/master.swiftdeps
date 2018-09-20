@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "77c0e530a3d0ff6b46b776d4257cc5d9"
-build_time: [1537431098, 900818000]
+build_time: [1537435795, 33296000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Debuggable.swift": [1537431038, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/core.git-9210800844849382486/Sources/Debugging/Demangler.swift": [1537431038, 0]

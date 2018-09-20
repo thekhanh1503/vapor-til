@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "f0b18cc25afc3b49095a575a3f5d19e7"
+build_time: [1537432402, 658715000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Exports.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataDecoder.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/FormDataEncoder.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartError.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartParser.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPart.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartPartConvertible.swift": [1537431041, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/MultipartSerializer.swift": [1537431041, 0]

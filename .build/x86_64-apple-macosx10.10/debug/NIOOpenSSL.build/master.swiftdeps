@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "19e2cd379a54c5fe1762b66415bbf4d4"
-build_time: [1537431118, 306457000]
+build_time: [1537435816, 503683000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1537431042, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-1370587408992578247/Sources/NIOOpenSSL/IdentityVerification.swift": [1537431042, 0]

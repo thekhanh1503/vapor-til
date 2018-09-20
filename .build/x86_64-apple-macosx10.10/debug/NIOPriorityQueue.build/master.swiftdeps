@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "9afe872331e982d65780cefeb1875dbc"
-build_time: [1537431098, 900818000]
+build_time: [1537435795, 34618000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/Heap.swift": [1537431039, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/swift-nio.git-3108475404973543938/Sources/NIOPriorityQueue/PriorityQueue.swift": [1537431039, 0]

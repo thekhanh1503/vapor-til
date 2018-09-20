@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "ec50778832df14568e17bd7729700452"
+build_time: [1537432471, 362485000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/Sources/Run/main.swift": [1536226332, 0]

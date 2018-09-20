@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "ea8a75db4c8556e2d4fd8f5293733219"
-build_time: [1537431161, 731071000]
+build_time: [1537435886, 620560000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/vapor.git-5492988889259800272/Sources/Vapor/Application.swift": [1537431041, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/vapor.git-5492988889259800272/Sources/Vapor/Client/Client.swift": [1537431041, 0]

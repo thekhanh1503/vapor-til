@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b9e1ac38f53a8f83235d55a9eba0bc9d"
+build_time: [1537432411, 280716000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Exports.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validatable.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/ValidationError.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validations.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/ValidatorType.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/AndValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/CharacterSetValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/CountValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/EmailValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/EmptyValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/InValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NilIgnoringValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NilValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/NotValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/OrValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/RangeValidator.swift": [1537431037, 0]
+  "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validators/URLValidator.swift": [1537431037, 0]

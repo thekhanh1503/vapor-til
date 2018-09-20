@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "cf059927187bde7d814c8287402082cf"
-build_time: [1537431143, 909519000]
+build_time: [1537435863, 226126000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateConditional.swift": [1537431040, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/template-kit.git--6129928586187134836/Sources/TemplateKit/AST/TemplateConstant.swift": [1537431040, 0]

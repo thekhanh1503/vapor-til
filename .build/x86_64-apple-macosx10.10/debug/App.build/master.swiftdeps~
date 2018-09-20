@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "397d631d0d8db9aa4114e11579fb8814"
+build_time: [1537432470, 183963000]
+inputs:
+  "/Users/Khanh/vapor/TILApp/Sources/App/Models/Acronym.swift": [1536563330, 0]
+  "/Users/Khanh/vapor/TILApp/Sources/App/Models/Reminder.swift": [1536566243, 0]
+  "/Users/Khanh/vapor/TILApp/Sources/App/app.swift": [1536226332, 0]
+  "/Users/Khanh/vapor/TILApp/Sources/App/boot.swift": [1536226332, 0]
+  "/Users/Khanh/vapor/TILApp/Sources/App/configure.swift": [1536565721, 0]
+  "/Users/Khanh/vapor/TILApp/Sources/App/routes.swift": [1536566817, 0]

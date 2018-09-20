@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "bf1ee1b979a3ae2aebc475b7ec543c74"
-build_time: [1537431144, 947971000]
+build_time: [1537435859, 323835000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/database-kit.git--3872818599693266265/Sources/DatabaseKit/Connection/Container+CachedConnection.swift": [1537431038, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/database-kit.git--3872818599693266265/Sources/DatabaseKit/Connection/Container+NewConnection.swift": [1537431038, 0]

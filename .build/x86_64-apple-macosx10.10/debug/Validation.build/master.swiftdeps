@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
 options: "f80858334c02058337922972f5803413"
-build_time: [1537431130, 401028000]
+build_time: [1537435853, 227195000]
 inputs:
   "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Exports.swift": [1537431037, 0]
   "/Users/Khanh/vapor/TILApp/.build/checkouts/validation.git--4403154650041669468/Sources/Validation/Validatable.swift": [1537431037, 0]
