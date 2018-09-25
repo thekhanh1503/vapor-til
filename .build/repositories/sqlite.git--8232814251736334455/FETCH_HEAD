@@ -1,7 +1,7 @@
 0db6cf72f53bbbeb9f2fdde3d243650239253c3c	not-for-merge	branch 'docs' of https://github.com/vapor/sqlite
 8a5b38a20e91e952b721043711db23da92ca2658	not-for-merge	branch 'docs-real' of https://github.com/vapor/sqlite
 2a5396d17a35e0b435b2b5fad4bc78f6ee77c697	not-for-merge	branch 'expose-sqlite-error' of https://github.com/vapor/sqlite
-635ad49b2d6395b63462abffcce58ee38be1e4cc	not-for-merge	branch 'master' of https://github.com/vapor/sqlite
+ad2e9bc9f0ed00ef2c6a05f89c1cec605467c90f	not-for-merge	branch 'master' of https://github.com/vapor/sqlite
 85271a2d2b686ad426ecac69686cac9e78ecdbf8	not-for-merge	branch 'rename' of https://github.com/vapor/sqlite
 b3c47b8d8103c96ef8b84e47bc769bbeec16d73a	not-for-merge	branch 'sql' of https://github.com/vapor/sqlite
 85271a2d2b686ad426ecac69686cac9e78ecdbf8	not-for-merge	'refs/pull/1/head' of https://github.com/vapor/sqlite
@@ -44,6 +44,7 @@ b3c47b8d8103c96ef8b84e47bc769bbeec16d73a	not-for-merge	'refs/pull/42/head' of ht
 04afb7c7dc84a3925ad0d0922c2472cdbefc7e25	not-for-merge	'refs/pull/44/head' of https://github.com/vapor/sqlite
 ea200514c6ec30cac17bea999348435ce12d85c9	not-for-merge	'refs/pull/45/head' of https://github.com/vapor/sqlite
 7e6d98ed7e40f9e458fefd4e225b1d48a9a0ee99	not-for-merge	'refs/pull/46/head' of https://github.com/vapor/sqlite
+8f6b598f71e0e800f36f3f708fa5302808c02618	not-for-merge	'refs/pull/49/head' of https://github.com/vapor/sqlite
 3c9c49a2118ee7f404ed42255e319319bae5de97	not-for-merge	'refs/pull/5/head' of https://github.com/vapor/sqlite
 c0cf1b1c4c00f217f7092f06b5fc6226bf2e2dbe	not-for-merge	'refs/pull/6/head' of https://github.com/vapor/sqlite
 1274b964e5e4ea5fa979198e9a7591c3f9e53330	not-for-merge	'refs/pull/8/head' of https://github.com/vapor/sqlite
@@ -80,3 +81,4 @@ aa16db0a4e670c94543120dd9c4f5a49abf20a97	not-for-merge	tag '3.0.0-rc.2.3' of htt
 3a731525e99bcd84bf6b2c4015fe89510a07a6a4	not-for-merge	tag '3.0.0-rc.4.0.1' of https://github.com/vapor/sqlite
 500748e7bd9d19b9beeba5b4bccbe751741eb280	not-for-merge	tag '3.0.0-rc.4.1' of https://github.com/vapor/sqlite
 386a6ed934017c1c9cba4d44b52e00dd5f9fd8d6	not-for-merge	tag '3.0.0-rc.4.1.1' of https://github.com/vapor/sqlite
+ad2e9bc9f0ed00ef2c6a05f89c1cec605467c90f	not-for-merge	tag '3.1.0' of https://github.com/vapor/sqlite
